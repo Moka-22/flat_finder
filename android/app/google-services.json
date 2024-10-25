@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162151556821",
+    "project_id": "flat-finder-78412",
+    "storage_bucket": "flat-finder-78412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162151556821:android:d125189d5a4e985e63245c",
+        "android_client_info": {
+          "package_name": "com.example.flatfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsbURvivE4tWeKLeBs8dpW1H_-Mgs2ldg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
